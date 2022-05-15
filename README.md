@@ -1,8 +1,8 @@
 <h1>Some facts</h1>
-- 👋 Hey, I am a student of the 42Wolfsburg<br>
+- 👋 Hey, I am a student at 42Wolfsburg<br>
 - 👀 I’m a software developer and born to code<br>
 - 🌱 I’m currently learning C, C++ and everything around microcontroller<br>
-- I learned Java, HTML, CSS and PHP<br>
+- I learned Java, SQL, HTML, CSS and PHP<br>
 - I already created some websites for small companys<br>
 - I love it to make the life a bit smarter<br>
 - I wants connect myself with other people and work together on many projects<br>
